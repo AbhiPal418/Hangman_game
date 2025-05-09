@@ -2,7 +2,7 @@ import tkinter as tk
 import random
 
 
-WORDS = ["SMARTPHONE", "PYHTON", "JAVA", "JAVASCRIPT", "LAPTOP", "COMPUTER",
+WORDS = ["SMARTPHONE", "PYTHON", "JAVA", "JAVASCRIPT", "LAPTOP", "COMPUTER",
          "HOUSE", "CYCLE", "CIRCLE", "APPLE", "BANANA", "EVENING", "MORNING",
          "KOLKATA", "DELHI", "MUMBAI", "NEWYORK", "INDIA", "AMERICA",
          "JAPAN", "RUSSIA", "AUSTRALIA"]
